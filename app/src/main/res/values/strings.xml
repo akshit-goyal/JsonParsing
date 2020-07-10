@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JsonParsing</string>
+    <string name="backgroundImage">Background Image</string>
 </resources>
